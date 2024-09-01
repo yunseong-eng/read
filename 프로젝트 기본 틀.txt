@@ -1,0 +1,26 @@
+runningcrew/
+|-- Java Resources/
+|   |-- src/
+|       |-- main/
+|           |-- java/
+|               |-- UserDTO.java
+|               |-- UserDAO.java
+|               |-- BoardDTO.java
+|               |-- BoardDAO.java
+|-- project/
+|   |-- index.html
+|   |-- signup.html
+|   |-- login.html
+|   |-- board.html
+|   |-- write.html
+|-- css/
+|   |-- style.css
+|-- js/
+|   |-- run.js
+|-- jsp/
+|   |-- signup.jsp
+|   |-- login.jsp
+|   |-- board.jsp
+|   |-- write.jsp
+|   |-- checkId.jsp
+|   |-- index.jsp
